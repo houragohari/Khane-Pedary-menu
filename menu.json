@@ -1,12 +1,14 @@
 {
-  "brand": "خانه پدری"
-}
+  "brand": "خانه پدری",
+
   "theme": {
     "primary": "#8B5CF6",
     "background": "#130A22",
     "accent": "#F4C542"
   },
+
   "categories": [
+
     {
       "title": "🥤 فراپه‌ها",
       "items": [
@@ -14,32 +16,30 @@
           "name": "وانیلا",
           "price": 195,
           "volume": "470 میلی‌لیتر",
-          "description": "شیر، یخ و خامه",
-          "image": "images/frappe-vanilla.jpg"
+          "description": "شیر، یخ و خامه"
         },
         {
           "name": "چوکو ولوت",
           "price": 205,
           "volume": "470 میلی‌لیتر",
-          "description": "شیر، یخ، شکلات، خامه و سس شکلات",
-          "image": "images/frappe-choco-velvet.jpg"
+          "description": "شیر، یخ، شکلات، خامه و سس شکلات"
         },
         {
           "name": "نوتلا",
           "price": 300,
           "volume": "470 میلی‌لیتر",
-          "description": "شیر، یخ، نوتلا و خامه",
-          "image": "images/frappe-nutella.jpg"
+          "description": "شیر، یخ، نوتلا و خامه"
         },
         {
           "name": "قهوه",
           "price": 280,
           "volume": "470 میلی‌لیتر",
-          "description": "دبل اسپرسو، شیر، یخ و خامه",
-          "image": "images/frappe-coffee.jpg"
+          "description": "دبل اسپرسو، شیر، یخ و خامه"
         }
       ]
     },
+
+
     {
       "title": "🥤 شیک‌ها",
       "items": [
@@ -47,432 +47,385 @@
           "name": "وانیلا",
           "price": 220,
           "volume": "470 میلی‌لیتر",
-          "description": "بستنی وانیلی، شیر و خامه",
-          "image": "images/shake-vanilla.jpg"
+          "description": "بستنی وانیلی، شیر و خامه"
         },
         {
           "name": "چوکو ولوت",
           "price": 230,
           "volume": "470 میلی‌لیتر",
-          "description": "بستنی شکلاتی، شیر، سس شکلات و خامه",
-          "image": "images/shake-choco-velvet.jpg"
+          "description": "بستنی شکلاتی، شیر، سس شکلات و خامه"
         },
         {
           "name": "کارامل",
           "price": 250,
           "volume": "470 میلی‌لیتر",
-          "description": "بستنی وانیلی، شیر، سیروپ کارامل و خامه",
-          "image": "images/shake-caramel.jpg"
+          "description": "بستنی وانیلی، شیر، سیروپ کارامل و خامه"
         },
         {
           "name": "قهوه",
           "price": 310,
           "volume": "470 میلی‌لیتر",
-          "description": "بستنی وانیلی، دبل اسپرسو، شیر و خامه",
-          "image": "images/shake-coffee.jpg"
+          "description": "بستنی وانیلی، دبل اسپرسو، شیر و خامه"
         },
         {
           "name": "بیسکوییت",
           "price": 225,
           "volume": "470 میلی‌لیتر",
-          "description": "بستنی وانیلی، بیسکویت، شیر و خامه",
-          "image": "images/shake-biscuit.jpg"
+          "description": "بستنی وانیلی، بیسکویت، شیر و خامه"
         },
         {
           "name": "چوکو گلدن بنانا",
           "price": 245,
           "volume": "470 میلی‌لیتر",
-          "description": "بستنی شکلاتی، موز، شکلات، شیر و خامه",
-          "image": "images/shake-golden-banana.jpg"
+          "description": "بستنی شکلاتی، موز، شکلات، شیر و خامه"
         },
         {
           "name": "نوتلا",
           "price": 320,
           "volume": "470 میلی‌لیتر",
-          "description": "بستنی وانیلی، نوتلا، شیر و خامه",
-          "image": "images/shake-nutella.jpg"
+          "description": "بستنی وانیلی، نوتلا، شیر و خامه"
         },
         {
           "name": "بری بلوم",
           "price": 265,
           "volume": "470 میلی‌لیتر",
-          "description": "بستنی وانیلی، توت‌فرنگی، شیر و خامه",
-          "image": "images/shake-berry-bloom.jpg"
+          "description": "بستنی وانیلی، توت‌فرنگی، شیر و خامه"
         },
         {
           "name": "لوتوس",
           "price": 320,
           "volume": "470 میلی‌لیتر",
-          "description": "بستنی وانیلی، کرم و بیسکویت لوتوس، شیر و خامه",
-          "image": "images/shake-lotus.jpg"
+          "description": "بستنی وانیلی، کرم و بیسکویت لوتوس، شیر و خامه"
+        }
+      ]
+    },    {
+      "title": "🍓 اسموتی‌ها",
+      "items": [
+        {
+          "name": "گلدن بنانا",
+          "price": 195,
+          "volume": "470 میلی‌لیتر",
+          "description": "ترکیب موز، شیر و یخ"
+        },
+        {
+          "name": "لواشک",
+          "price": 180,
+          "volume": "470 میلی‌لیتر",
+          "description": "ترکیب لواشک و یخ"
+        },
+        {
+          "name": "بری بلوم",
+          "price": 195,
+          "volume": "470 میلی‌لیتر",
+          "description": "ترکیب توت‌فرنگی، آبمیوه و یخ"
+        },
+        {
+          "name": "هیدن اسموتی",
+          "price": 235,
+          "volume": "470 میلی‌لیتر",
+          "description": "اسموتی دو طعم با ترکیب میوه‌های تازه"
+        }
+      ]
+    },
+
+
+    {
+      "title": "🍹 موکتل و لیموناد",
+      "items": [
+        {
+          "name": "لیموناد",
+          "price": 185,
+          "volume": "470 میلی‌لیتر",
+          "description": "آب‌لیموی تازه، آب گازدار و یخ"
+        },
+        {
+          "name": "موهیتو",
+          "price": 190,
+          "volume": "470 میلی‌لیتر",
+          "description": "نعناع تازه، آب‌لیمو، آب گازدار و یخ"
+        },
+        {
+          "name": "رد موهیتو",
+          "price": 225,
+          "volume": "470 میلی‌لیتر",
+          "description": "موهیتو با پوره توت‌فرنگی تازه"
+        }
+      ]
+    },
+
+
+    {
+      "title": "☕ قهوه گرم",
+      "items": [
+        {
+          "name": "دبل اسپرسو (۳۰-۷۰٪)",
+          "price": 70,
+          "volume": "30 میلی‌لیتر",
+          "description": "یک شات اسپرسو"
+        },
+        {
+          "name": "دبل اسپرسو (۷۰-۳۰٪)",
+          "price": 95,
+          "volume": "60 میلی‌لیتر",
+          "description": "دو شات اسپرسو"
+        },
+        {
+          "name": "آمریکانو",
+          "price": 150,
+          "volume": "240 میلی‌لیتر",
+          "description": "دبل اسپرسو و آب داغ"
+        },
+        {
+          "name": "کارامل ماکیاتو",
+          "price": 170,
+          "volume": "360 میلی‌لیتر",
+          "description": "دبل اسپرسو، شیر و سیروپ کارامل"
+        },
+        {
+          "name": "کاپوچینو",
+          "price": 155,
+          "volume": "240 میلی‌لیتر",
+          "description": "دبل اسپرسو و شیر"
+        },
+        {
+          "name": "لته",
+          "price": 160,
+          "volume": "360 میلی‌لیتر",
+          "description": "دبل اسپرسو و شیر"
+        },
+        {
+          "name": "موکا",
+          "price": 170,
+          "volume": "360 میلی‌لیتر",
+          "description": "دبل اسپرسو، شیر و سیروپ شکلات"
+        },
+        {
+          "name": "آفوگاتو",
+          "price": 180,
+          "volume": "240 میلی‌لیتر",
+          "description": "یک اسکوپ بستنی وانیلی و دبل اسپرسو"
+        },
+        {
+          "name": "قهوه پدری",
+          "price": 130,
+          "volume": "90 میلی‌لیتر",
+          "description": "قهوه ترک"
+        },
+        {
+          "name": "موکا ترک",
+          "price": 150,
+          "volume": "90 میلی‌لیتر",
+          "description": "قهوه ترک و شکلات"
+        },
+        {
+          "name": "پیستاچیو لته",
+          "price": 230,
+          "volume": "360 میلی‌لیتر",
+          "description": "دبل اسپرسو، شیر و کره پسته"
+        },
+        {
+          "name": "وانیلا لته",
+          "price": 170,
+          "volume": "360 میلی‌لیتر",
+          "description": "دبل اسپرسو، شیر و سیروپ وانیل"
+        }
+      ]
+    },    {
+      "title": "🧊 قهوه سرد",
+      "items": [
+        {
+          "name": "آیس آمریکانو",
+          "price": 150,
+          "volume": "470 میلی‌لیتر",
+          "description": "دبل اسپرسو، آب سرد و یخ"
+        },
+        {
+          "name": "آیس لته",
+          "price": 160,
+          "volume": "470 میلی‌لیتر",
+          "description": "دبل اسپرسو، شیر و یخ"
+        },
+        {
+          "name": "آیس وانیلا لته",
+          "price": 170,
+          "volume": "470 میلی‌لیتر",
+          "description": "دبل اسپرسو، شیر، سیروپ وانیل و یخ"
+        },
+        {
+          "name": "آیس موکا",
+          "price": 170,
+          "volume": "470 میلی‌لیتر",
+          "description": "دبل اسپرسو، شیر، سیروپ شکلات و یخ"
+        },
+        {
+          "name": "آیس کارامل ماکیاتو",
+          "price": 170,
+          "volume": "470 میلی‌لیتر",
+          "description": "دبل اسپرسو، شیر، سیروپ کارامل و یخ"
+        },
+        {
+          "name": "آیس اورنج آمریکانو",
+          "price": 180,
+          "volume": "470 میلی‌لیتر",
+          "description": "دبل اسپرسو، آب پرتقال تازه و یخ"
+        },
+        {
+          "name": "بری آیس لته",
+          "price": 210,
+          "volume": "470 میلی‌لیتر",
+          "description": "دبل اسپرسو، شیر، پوره توت‌فرنگی و یخ"
+        },
+        {
+          "name": "بری آیس موکا",
+          "price": 220,
+          "volume": "470 میلی‌لیتر",
+          "description": "دبل اسپرسو، شیر، سیروپ شکلات، پوره توت‌فرنگی و یخ"
+        },
+        {
+          "name": "آیس ولوت براون لته",
+          "price": 250,
+          "volume": "470 میلی‌لیتر",
+          "description": "دبل اسپرسو، شیر، سیروپ شکر قهوه‌ای، یخ و فوم سرد براون شوگر",
+          "popular": true
+        },
+        {
+          "name": "آیس بنانا لته",
+          "price": 210,
+          "volume": "470 میلی‌لیتر",
+          "description": "دبل اسپرسو، شیر، موز و یخ"
+        },
+        {
+          "name": "آیس پیستاچیو لته",
+          "price": 230,
+          "volume": "470 میلی‌لیتر",
+          "description": "دبل اسپرسو، شیر، کرم پسته و یخ"
+        },
+        {
+          "name": "آیس چاکلت",
+          "price": 170,
+          "volume": "470 میلی‌لیتر",
+          "description": "شکلات، شیر و یخ خرد شده"
+        }
+      ]
+    },
+
+
+    {
+      "title": "🍫 نوشیدنی‌های گرم غیر قهوه",
+      "items": [
+        {
+          "name": "هات چاکلت",
+          "price": 170,
+          "volume": "360 میلی‌لیتر",
+          "description": "پودر هات چاکلت و شیر"
+        },
+        {
+          "name": "چای ماسالا",
+          "price": 160,
+          "volume": "360 میلی‌لیتر",
+          "description": "شیر و ادویه ماسالا"
+        },
+        {
+          "name": "چای سیاه دو نفره",
+          "price": 150,
+          "volume": "دو نفره",
+          "description": "چای سیاه"
+        },
+        {
+          "name": "چای زعفران دو نفره",
+          "price": 170,
+          "volume": "دو نفره",
+          "description": "چای زعفران"
+        }
+      ]
+    },
+
+
+    {
+      "title": "🍔 فست‌فود",
+      "items": [
+        {
+          "name": "برگر کلاسیک",
+          "price": 550,
+          "description": "برگر گوشت گریل، پنیر، کاهو، گوجه، خیارشور و سس مخصوص"
+        },
+        {
+          "name": "چیزبرگر",
+          "price": 600,
+          "description": "برگر گوشت گریل، پنیر چدار، کاهو، گوجه، خیارشور و سس مخصوص"
+        },
+        {
+          "name": "اسموک برگر",
+          "price": 650,
+          "description": "برگر گوشت دودی، پنیر چدار، پیاز کاراملی و سس اسموکی",
+          "popular": true
+        },
+        {
+          "name": "کراکف",
+          "price": 390,
+          "description": "سوسیس کراکف گریل، پنیر، خیارشور، سس مخصوص و نان تازه"
+        },
+        {
+          "name": "پاستا آلفردو",
+          "price": 550,
+          "description": "پنه، مرغ گریل، سس آلفردو و پنیر پارمزان"
+        },
+        {
+          "name": "پاستا آرابیاتا",
+          "price": 530,
+          "description": "پنه، سوسیس، سس گوجه تند و پنیر پارمزان"
+        }
+      ]
+    },
+
+
+    {
+      "title": "🍟 سیب‌زمینی‌ها",
+      "items": [
+        {
+          "name": "سیب زمینی ساده",
+          "price": 210,
+          "description": "سیب‌زمینی سرخ‌شده با ادویه مخصوص"
+        },
+        {
+          "name": "سیب زمینی و سس چدار",
+          "price": 280,
+          "description": "سیب‌زمینی و سس چدار"
+        },
+        {
+          "name": "سیب زمینی و سس آلفردو",
+          "price": 290,
+          "description": "سیب‌زمینی، قارچ و خامه"
+        },
+        {
+          "name": "فایر فرایز",
+          "price": 340,
+          "description": "سیب‌زمینی با ادویه تند، سس مخصوص و طعم دودی"
+        }
+      ]
+    },
+
+
+    {
+      "title": "🧇 وافل‌ها",
+      "items": [
+        {
+          "name": "کلاسیک",
+          "price": 300,
+          "description": "وافل ساده، پودر قند"
+        },
+        {
+          "name": "چوکو ولوت",
+          "price": 390,
+          "description": "وافل، نوتلا، سس شکلات و میوه"
+        },
+        {
+          "name": "آیس فروت",
+          "price": 435,
+          "description": "وافل، بستنی وانیلی یا شکلاتی، میوه‌های تازه و سس شکلات"
         }
       ]
     }
-  ]
-}
-{
-  "title": "🍓 اسموتی‌ها",
-  "items": [
-    {
-      "name": "گلدن بنانا",
-      "price": 195,
-      "volume": "470 میلی‌لیتر",
-      "description": "ترکیب موز، شیر و یخ",
-      "image": "images/smoothie-golden-banana.jpg"
-    },
-    {
-      "name": "لواشک",
-      "price": 180,
-      "volume": "470 میلی‌لیتر",
-      "description": "ترکیب لواشک و یخ",
-      "image": "images/smoothie-lavashak.jpg"
-    },
-    {
-      "name": "بری بلوم",
-      "price": 195,
-      "volume": "470 میلی‌لیتر",
-      "description": "ترکیب توت‌فرنگی، آبمیوه و یخ",
-      "image": "images/smoothie-berry-bloom.jpg"
-    },
-    {
-      "name": "هیدن اسموتی",
-      "price": 235,
-      "volume": "470 میلی‌لیتر",
-      "description": "اسموتی دو طعم با ترکیب میوه‌های تازه",
-      "image": "images/smoothie-hidden.jpg"
-    }
-  ]
-},
-{
-  "title": "🍹 موکتل و لیموناد",
-  "items": [
-    {
-      "name": "لیموناد",
-      "price": 185,
-      "volume": "470 میلی‌لیتر",
-      "description": "آب‌لیموی تازه، آب گازدار و یخ",
-      "image": "images/lemonade.jpg"
-    },
-    {
-      "name": "موهیتو",
-      "price": 190,
-      "volume": "470 میلی‌لیتر",
-      "description": "نعناع تازه، آب‌لیمو، آب گازدار و یخ",
-      "image": "images/mojito.jpg"
-    },
-    {
-      "name": "رد موهیتو",
-      "price": 225,
-      "volume": "470 میلی‌لیتر",
-      "description": "موهیتو با پوره توت‌فرنگی تازه",
-      "image": "images/red-mojito.jpg"
-    }
-  ]
-},
-{
-  "title": "☕ قهوه گرم",
-  "items": [
-    {
-      "name": "دبل اسپرسو (۳۰-۷۰٪)",
-      "price": 70,
-      "volume": "30 میلی‌لیتر",
-      "description": "یک شات اسپرسو",
-      "image": "images/double-espresso.jpg"
-    },
-    {
-      "name": "دبل اسپرسو (۷۰-۳۰٪)",
-      "price": 95,
-      "volume": "60 میلی‌لیتر",
-      "description": "دو شات اسپرسو",
-      "image": "images/double-espresso.jpg"
-    },
-    {
-      "name": "آمریکانو",
-      "price": 150,
-      "volume": "240 میلی‌لیتر",
-      "description": "دبل اسپرسو و آب داغ",
-      "image": "images/americano.jpg"
-    },
-    {
-      "name": "کارامل ماکیاتو",
-      "price": 170,
-      "volume": "360 میلی‌لیتر",
-      "description": "دبل اسپرسو، شیر و سیروپ کارامل",
-      "image": "images/caramel-macchiato.jpg"
-    },
-    {
-      "name": "کاپوچینو",
-      "price": 155,
-      "volume": "240 میلی‌لیتر",
-      "description": "دبل اسپرسو و شیر",
-      "image": "images/cappuccino.jpg"
-    },
-    {
-      "name": "لته",
-      "price": 160,
-      "volume": "360 میلی‌لیتر",
-      "description": "دبل اسپرسو و شیر",
-      "image": "images/latte.jpg"
-    },
-    {
-      "name": "موکا",
-      "price": 170,
-      "volume": "360 میلی‌لیتر",
-      "description": "دبل اسپرسو، شیر و سیروپ شکلات",
-      "image": "images/mocha.jpg"
-    },
-    {
-      "name": "آفوگاتو",
-      "price": 180,
-      "volume": "240 میلی‌لیتر",
-      "description": "یک اسکوپ بستنی وانیلی و دبل اسپرسو",
-      "image": "images/affogato.jpg"
-    },
-    {
-      "name": "قهوه پدری",
-      "price": 130,
-      "volume": "90 میلی‌لیتر",
-      "description": "قهوه ترک",
-      "image": "images/turkish-coffee.jpg"
-    },
-    {
-      "name": "موکا ترک",
-      "price": 150,
-      "volume": "90 میلی‌لیتر",
-      "description": "قهوه ترک و شکلات",
-      "image": "images/turkish-mocha.jpg"
-    },
-    {
-      "name": "پیستاچیو لته",
-      "price": 230,
-      "volume": "360 میلی‌لیتر",
-      "description": "دبل اسپرسو، شیر و کره پسته",
-      "image": "images/pistachio-latte.jpg"
-    },
-    {
-      "name": "وانیلا لته",
-      "price": 170,
-      "volume": "360 میلی‌لیتر",
-      "description": "دبل اسپرسو، شیر و سیروپ وانیل",
-      "image": "images/vanilla-latte.jpg"
-    }
-  ]
-},
-{
-  "title": "🧊 قهوه سرد",
-  "items": [
-    {
-      "name": "آیس آمریکانو",
-      "price": 150,
-      "volume": "470 میلی‌لیتر",
-      "description": "دبل اسپرسو، آب سرد و یخ",
-      "image": "images/iced-americano.jpg"
-    },
-    {
-      "name": "آیس لته",
-      "price": 160,
-      "volume": "470 میلی‌لیتر",
-      "description": "دبل اسپرسو، شیر و یخ",
-      "image": "images/iced-latte.jpg"
-    },
-    {
-      "name": "آیس وانیلا لته",
-      "price": 170,
-      "volume": "470 میلی‌لیتر",
-      "description": "دبل اسپرسو، شیر، سیروپ وانیل و یخ",
-      "image": "images/iced-vanilla-latte.jpg"
-    },
-    {
-      "name": "آیس موکا",
-      "price": 170,
-      "volume": "470 میلی‌لیتر",
-      "description": "دبل اسپرسو، شیر، سیروپ شکلات و یخ",
-      "image": "images/iced-mocha.jpg"
-    },
-    {
-      "name": "آیس کارامل ماکیاتو",
-      "price": 170,
-      "volume": "470 میلی‌لیتر",
-      "description": "دبل اسپرسو، شیر، سیروپ کارامل و یخ",
-      "image": "images/iced-caramel-macchiato.jpg"
-    },
-    {
-      "name": "آیس اورنج آمریکانو",
-      "price": 180,
-      "volume": "470 میلی‌لیتر",
-      "description": "دبل اسپرسو، آب پرتقال تازه و یخ",
-      "image": "images/orange-americano.jpg"
-    },
-    {
-      "name": "بری آیس لته",
-      "price": 210,
-      "volume": "470 میلی‌لیتر",
-      "description": "دبل اسپرسو، شیر، پوره توت‌فرنگی و یخ",
-      "image": "images/berry-iced-latte.jpg"
-    },
-    {
-      "name": "بری آیس موکا",
-      "price": 220,
-      "volume": "470 میلی‌لیتر",
-      "description": "دبل اسپرسو، شیر، سیروپ شکلات، پوره توت‌فرنگی و یخ",
-      "image": "images/berry-iced-mocha.jpg"
-    },
-    {
-      "name": "آیس ولوت براون لته",
-      "price": 250,
-      "volume": "470 میلی‌لیتر",
-      "description": "دبل اسپرسو، شیر، سیروپ شکر قهوه‌ای، یخ و فوم سرد براون شوگر",
-      "image": "images/iced-velvet-brown.jpg",
-      "popular": true
-    },
-    {
-      "name": "آیس بنانا لته",
-      "price": 210,
-      "volume": "470 میلی‌لیتر",
-      "description": "دبل اسپرسو، شیر، موز و یخ",
-      "image": "images/iced-banana-latte.jpg"
-    },
-    {
-      "name": "آیس پیستاچیو لته",
-      "price": 230,
-      "volume": "470 میلی‌لیتر",
-      "description": "دبل اسپرسو، شیر، کرم پسته و یخ",
-      "image": "images/iced-pistachio-latte.jpg"
-    },
-    {
-      "name": "آیس چاکلت",
-      "price": 170,
-      "volume": "470 میلی‌لیتر",
-      "description": "شکلات، شیر و یخ خرد شده",
-      "image": "images/iced-chocolate.jpg"
-    }
-  ]
-},
-{
-  "title": "🍫 نوشیدنی‌های گرم غیر قهوه",
-  "items": [
-    {
-      "name": "هات چاکلت",
-      "price": 170,
-      "volume": "360 میلی‌لیتر",
-      "description": "پودر هات چاکلت و شیر",
-      "image": "images/hot-chocolate.jpg"
-    },
-    {
-      "name": "چای ماسالا",
-      "price": 160,
-      "volume": "360 میلی‌لیتر",
-      "description": "شیر و ادویه ماسالا",
-      "image": "images/masala-tea.jpg"
-    },
-    {
-      "name": "چای سیاه دو نفره",
-      "price": 150,
-      "volume": "دو نفره",
-      "description": "چای سیاه",
-      "image": "images/black-tea.jpg"
-    },
-    {
-      "name": "چای زعفران دو نفره",
-      "price": 170,
-      "volume": "دو نفره",
-      "description": "چای زعفران",
-      "image": "images/saffron-tea.jpg"
-    }
-  ]
-},
-{
-  "title": "🍔 فست‌فود",
-  "items": [
-    {
-      "name": "برگر کلاسیک",
-      "price": 550,
-      "description": "برگر گوشت گریل، پنیر، کاهو، گوجه، خیارشور و سس مخصوص",
-      "image": "images/classic-burger.jpg"
-    },
-    {
-      "name": "چیزبرگر",
-      "price": 600,
-      "description": "برگر گوشت گریل، پنیر چدار، کاهو، گوجه، خیارشور و سس مخصوص",
-      "image": "images/cheeseburger.jpg"
-    },
-    {
-      "name": "اسموک برگر",
-      "price": 650,
-      "description": "برگر گوشت دودی، کاهو، گوجه، خیارشور، پنیر چدار، پیاز کاراملی و سس اسموکی",
-      "image": "images/smoke-burger.jpg",
-      "popular": true
-    },
-    {
-      "name": "کراکف",
-      "price": 390,
-      "description": "سوسیس کراکف گریل، پنیر، خیارشور، سس مخصوص و نان تازه",
-      "image": "images/krakow.jpg"
-    },
-    {
-      "name": "پاستا آلفردو",
-      "price": 550,
-      "description": "پنه، مرغ گریل، سس آلفردو و پنیر پارمزان",
-      "image": "images/alfredo-pasta.jpg"
-    },
-    {
-      "name": "پاستا آرابیاتا",
-      "price": 530,
-      "description": "پنه، سوسیس، سس گوجه تند و پنیر پارمزان",
-      "image": "images/arrabbiata-pasta.jpg"
-    }
-  ]
-},
-{
-  "title": "🍟 سیب‌زمینی‌ها",
-  "items": [
-    {
-      "name": "سیب زمینی ساده",
-      "price": 210,
-      "description": "سیب‌زمینی سرخ‌شده با ادویه مخصوص",
-      "image": "images/simple-fries.jpg"
-    },
-    {
-      "name": "سیب زمینی و سس چدار",
-      "price": 280,
-      "description": "سیب‌زمینی و سس چدار",
-      "image": "images/cheddar-fries.jpg"
-    },
-    {
-      "name": "سیب زمینی و سس آلفردو",
-      "price": 290,
-      "description": "سیب‌زمینی، قارچ و خامه",
-      "image": "images/alfredo-fries.jpg"
-    },
-    {
-      "name": "فایر فرایز",
-      "price": 340,
-      "description": "سیب‌زمینی با ادویه تند، سس مخصوص و طعم دودی",
-      "image": "images/fire-fries.jpg"
-    }
-  ]
-},
-{
-  "title": "🧇 وافل‌ها",
-  "items": [
-    {
-      "name": "کلاسیک",
-      "price": 300,
-      "description": "وافل ساده، پودر قند",
-      "image": "images/classic-waffle.jpg"
-    },
-    {
-      "name": "چوکو ولوت",
-      "price": 390,
-      "description": "وافل، نوتلا، سس شکلات و میوه",
-      "image": "images/choco-velvet-waffle.jpg",
-      "popular": true
-    },
-    {
-      "name": "آیس فروت",
-      "price": 435,
-      "description": "وافل، بستنی وانیلی یا شکلاتی، میوه‌های تازه و سس شکلات",
-      "image": "images/ice-fruit-waffle.jpg"
-    }
+
   ]
 }
