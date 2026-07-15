@@ -1,0 +1,111 @@
+{
+  "brand": "قهوه پدری",
+  "theme": {
+    "primary": "#8B5CF6",
+    "background": "#130A22",
+    "accent": "#F4C542"
+  },
+  "categories": [
+    {
+      "title": "🥤 فراپه‌ها",
+      "items": [
+        {
+          "name": "وانیلا",
+          "price": 195,
+          "volume": "470 میلی‌لیتر",
+          "description": "شیر، یخ و خامه",
+          "image": "images/frappe-vanilla.jpg"
+        },
+        {
+          "name": "چوکو ولوت",
+          "price": 205,
+          "volume": "470 میلی‌لیتر",
+          "description": "شیر، یخ، شکلات، خامه و سس شکلات",
+          "image": "images/frappe-choco-velvet.jpg"
+        },
+        {
+          "name": "نوتلا",
+          "price": 300,
+          "volume": "470 میلی‌لیتر",
+          "description": "شیر، یخ، نوتلا و خامه",
+          "image": "images/frappe-nutella.jpg"
+        },
+        {
+          "name": "قهوه",
+          "price": 280,
+          "volume": "470 میلی‌لیتر",
+          "description": "دبل اسپرسو، شیر، یخ و خامه",
+          "image": "images/frappe-coffee.jpg"
+        }
+      ]
+    },
+    {
+      "title": "🥤 شیک‌ها",
+      "items": [
+        {
+          "name": "وانیلا",
+          "price": 220,
+          "volume": "470 میلی‌لیتر",
+          "description": "بستنی وانیلی، شیر و خامه",
+          "image": "images/shake-vanilla.jpg"
+        },
+        {
+          "name": "چوکو ولوت",
+          "price": 230,
+          "volume": "470 میلی‌لیتر",
+          "description": "بستنی شکلاتی، شیر، سس شکلات و خامه",
+          "image": "images/shake-choco-velvet.jpg"
+        },
+        {
+          "name": "کارامل",
+          "price": 250,
+          "volume": "470 میلی‌لیتر",
+          "description": "بستنی وانیلی، شیر، سیروپ کارامل و خامه",
+          "image": "images/shake-caramel.jpg"
+        },
+        {
+          "name": "قهوه",
+          "price": 310,
+          "volume": "470 میلی‌لیتر",
+          "description": "بستنی وانیلی، دبل اسپرسو، شیر و خامه",
+          "image": "images/shake-coffee.jpg"
+        },
+        {
+          "name": "بیسکوییت",
+          "price": 225,
+          "volume": "470 میلی‌لیتر",
+          "description": "بستنی وانیلی، بیسکویت، شیر و خامه",
+          "image": "images/shake-biscuit.jpg"
+        },
+        {
+          "name": "چوکو گلدن بنانا",
+          "price": 245,
+          "volume": "470 میلی‌لیتر",
+          "description": "بستنی شکلاتی، موز، شکلات، شیر و خامه",
+          "image": "images/shake-golden-banana.jpg"
+        },
+        {
+          "name": "نوتلا",
+          "price": 320,
+          "volume": "470 میلی‌لیتر",
+          "description": "بستنی وانیلی، نوتلا، شیر و خامه",
+          "image": "images/shake-nutella.jpg"
+        },
+        {
+          "name": "بری بلوم",
+          "price": 265,
+          "volume": "470 میلی‌لیتر",
+          "description": "بستنی وانیلی، توت‌فرنگی، شیر و خامه",
+          "image": "images/shake-berry-bloom.jpg"
+        },
+        {
+          "name": "لوتوس",
+          "price": 320,
+          "volume": "470 میلی‌لیتر",
+          "description": "بستنی وانیلی، کرم و بیسکویت لوتوس، شیر و خامه",
+          "image": "images/shake-lotus.jpg"
+        }
+      ]
+    }
+  ]
+}
