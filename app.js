@@ -8,7 +8,7 @@ let allItems = [];
 
 // دریافت اطلاعات منو
 
-fetch("menu.json")
+fetch("./menu.json")
 
 .then(response => response.json())
 
