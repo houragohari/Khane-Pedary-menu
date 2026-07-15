@@ -9,10 +9,35 @@ let allItems = [];
 // دریافت اطلاعات منو
 
 fetch("./menu.json")
-
-.then(response => response.json())
-
+.then(response => {
+    if (!response.ok) {
+        throw new Error("menu.json پیدا نشد");
+    }
+    return response.json();
+})
 .then(data => {
+
+    console.log(data);
+
+    const menuContainer = document.getElementById("menu");
+
+    data.categories.forEach(category => {
+
+        const title = document.createElement("h2");
+        title.innerText = category.title;
+        menuContainer.appendChild(title);
+
+    });
+
+})
+.catch(error => {
+
+    console.log(error);
+
+    document.getElementById("menu").innerHTML =
+    "<p>خطا در بارگذاری منو</p>";
+
+});
 
 
     data.categories.forEach(category => {
