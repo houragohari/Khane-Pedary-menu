@@ -1,0 +1,29 @@
+body {
+    margin:0;
+    font-family:Peyda;
+    background:#130A22;
+    color:white;
+}
+
+header {
+    text-align:center;
+    padding:30px;
+}
+
+h1 {
+    color:#F4C542;
+}
+
+
+.card {
+    background:#1E1233;
+    margin:15px;
+    padding:20px;
+    border-radius:20px;
+}
+
+
+.price {
+    color:#F4C542;
+    font-size:20px;
+}
