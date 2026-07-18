@@ -8,9 +8,12 @@ body {
     margin:0;
     font-family:"Vazirmatn",Tahoma,sans-serif;
 
-    background:
-    radial-gradient(circle at top,#3b1d63 0%,#130A22 45%,#090511 100%);
-
+    background: linear-gradient(
+180deg,
+#130A22 0%,
+#241245 45%,
+#38205F 100%
+);
     color:white;
 
     min-height:100vh;
