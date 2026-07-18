@@ -414,7 +414,6 @@
     }
   ]
 },
-
 {
   "title": "🍰 کیک و دسر",
   "items": [
@@ -434,7 +433,64 @@
       "description": "برش کیک خیس شکلاتی"
     }
   ]
-}
-
-]
+},
+{
+  "title": "💨 قلیان‌ها",
+  "items": [
+    {
+      "name": "تمشک بستنی",
+      "price": 300,
+      "description": "قلیان"
+    },
+    {
+      "name": "آدامس دارچین",
+      "price": 300,
+      "description": "قلیان"
+    },
+    {
+      "name": "لاو",
+      "price": 300,
+      "description": "قلیان"
+    },
+    {
+      "name": "شب‌های مسکو",
+      "price": 300,
+      "description": "قلیان"
+    },
+    {
+      "name": "پرتقال نعنا",
+      "price": 300,
+      "description": "قلیان"
+    },
+    {
+      "name": "دو سیب",
+      "price": 300,
+      "description": "قلیان"
+    },
+    {
+      "name": "لیدی",
+      "price": 300,
+      "description": "قلیان"
+    },
+    {
+      "name": "دژاوو",
+      "price": 300,
+      "description": "قلیان"
+    },
+    {
+      "name": "شیخ مانی",
+      "price": 300,
+      "description": "قلیان"
+    },
+    {
+      "name": "پدر خوانده",
+      "price": 300,
+      "description": "قلیان"
+    },
+    {
+      "name": "خرم سلطان",
+      "price": 300,
+      "description": "قلیان"
+    }
+  ]
 }
