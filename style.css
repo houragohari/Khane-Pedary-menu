@@ -337,3 +337,16 @@ footer p {
     font-size:20px;
 
 }
+html,
+body {
+    margin: 0 !important;
+    min-height: 100%;
+    background: linear-gradient(
+        180deg,
+        #4A2E7A 0%,
+        #6542A5 45%,
+        #7D58C8 100%
+    ) !important;
+    background-attachment: fixed;
+    color: #fff;
+}
