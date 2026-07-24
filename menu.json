@@ -133,7 +133,7 @@
           "price": 180,
           "volume": "470 میلی‌لیتر",
           "description": "ترکیب لواشک و یخ",
-          "image": "images/lavashak.jpg"
+          "image": "images/Lavashak.jpg"
         },
         {
           "name": "بری بلوم",
@@ -175,7 +175,7 @@
           "price": 225,
           "volume": "470 میلی‌لیتر",
           "description": "موهیتو با پوره توت‌فرنگی تازه",
-          "image": "images/redmohito.jpg"
+          "image": "images/Redmohito.jpg"
         }
       ]
     },
