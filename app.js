@@ -25,6 +25,7 @@ card.className="card";
 
 
 card.innerHTML = `
+${item.image ? `<img src="${item.image}" alt="${item.name}" class="menu-image">` : ""}
 
 <h3>${item.name}</h3>
 
@@ -35,7 +36,6 @@ card.innerHTML = `
 <div class="price">
 ${item.price} هزار تومان
 </div>
-
 `;
 
 
