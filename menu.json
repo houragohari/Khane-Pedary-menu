@@ -125,25 +125,29 @@
           "name": "گلدن بنانا",
           "price": 195,
           "volume": "470 میلی‌لیتر",
-          "description": "ترکیب موز، شیر و یخ"
+          "description": "ترکیب موز، شیر و یخ",
+          "image": "images/moz.jpg"
         },
         {
           "name": "لواشک",
           "price": 180,
           "volume": "470 میلی‌لیتر",
-          "description": "ترکیب لواشک و یخ"
+          "description": "ترکیب لواشک و یخ",
+          "image": "images/lavashak.jpg"
         },
         {
           "name": "بری بلوم",
           "price": 195,
           "volume": "470 میلی‌لیتر",
-          "description": "ترکیب توت‌فرنگی، شیر و یخ"
+          "description": "ترکیب توت‌فرنگی، شیر و یخ",
+          "image": "images/smootiberry.jpg"
         },
         {
           "name": "هیدن اسموتی",
           "price": 235,
           "volume": "470 میلی‌لیتر",
-          "description": "اسموتی دو طعم با ترکیب میوه‌های تازه"
+          "description": "اسموتی دو طعم با ترکیب میوه‌های تازه",
+          "image": "images/hidden.jpg"
         }
       ]
     },
@@ -156,20 +160,22 @@
           "name": "لیموناد",
           "price": 185,
           "volume": "470 میلی‌لیتر",
-          "description": "آب‌لیموی تازه، آب گازدار و یخ"
+          "description": "آب‌لیموی تازه، آب گازدار و یخ",
+          "image": "images/limonad.jpg"
         },
         {
           "name": "موهیتو",
           "price": 190,
           "volume": "470 میلی‌لیتر",
-          "description": "نعناع تازه، آب‌لیمو، آب گازدار و یخ"
+          "description": "نعناع تازه، آب‌لیمو، آب گازدار و یخ",
+          "image": "images/mohito.jpg"
         },
         {
           "name": "رد موهیتو",
           "price": 225,
           "volume": "470 میلی‌لیتر",
           "description": "موهیتو با پوره توت‌فرنگی تازه",
-          "image": "images/Redmohito.PNG"
+          "image": "images/redmohito.jpg"
         }
       ]
     },
@@ -196,13 +202,15 @@
           "name": "آمریکانو",
           "price": 150,
           "volume": "240 میلی‌لیتر",
-          "description": "دبل اسپرسو و آب داغ"
+          "description": "دبل اسپرسو و آب داغ",
+          "image": "images/americano.jpg"
         },
         {
           "name": "کارامل ماکیاتو",
           "price": 185,
           "volume": "360 میلی‌لیتر",
-          "description": "دبل اسپرسو، شیر و سیروپ کارامل"
+          "description": "دبل اسپرسو، شیر و سیروپ کارامل",
+          "image": "images/makiato.jpg"
         },
         {
           "name": "کاپوچینو",
@@ -232,7 +240,8 @@
           "name": "قهوه پدری",
           "price": 130,
           "volume": "90 میلی‌لیتر",
-          "description": "قهوه ترک"
+          "description": "قهوه ترک",
+          "image": "images/turk.jpg"
         },
         {
           "name": "موکا ترک",
