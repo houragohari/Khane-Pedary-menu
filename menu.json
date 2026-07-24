@@ -156,7 +156,7 @@
           "price": 225,
           "volume": "470 میلی‌لیتر",
           "description": "موهیتو با پوره توت‌فرنگی تازه",
-          "image": "images/redmohito.png"
+          "image": "images/Redmohito.PNG"
         }
       ]
     },
@@ -242,7 +242,7 @@
           "price": 150,
           "volume": "470 میلی‌لیتر",
           "description": "دبل اسپرسو، آب سرد و یخ",
-          "image": "images/iceamericano.png"
+          "image": "images/Iceamericano.PNG"
         },
         {
           "name": "آیس لته",
@@ -435,7 +435,7 @@
       "name": "آیس فروت",
       "price": 435,
       "description": "وافل، بستنی وانیلی یا شکلاتی، میوه‌های تازه و سس شکلات",
-      "image": "images/Wafelice.jpg"
+      "image": "images/Wafelice.JPG"
     }
   ]
 },
