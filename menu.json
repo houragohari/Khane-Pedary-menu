@@ -260,13 +260,15 @@
           "name": "آیس موکا",
           "price": 185,
           "volume": "470 میلی‌لیتر",
-          "description": "دبل اسپرسو، شیر، سیروپ شکلات و یخ"
+          "description": "دبل اسپرسو، شیر، سیروپ شکلات و یخ",
+          "image": "images/Icemocha.PNG"
         },
         {
           "name": "آیس کارامل ماکیاتو",
           "price": 185,
           "volume": "470 میلی‌لیتر",
-          "description": "دبل اسپرسو، شیر، سیروپ کارامل و یخ"
+          "description": "دبل اسپرسو، شیر، سیروپ کارامل و یخ",
+          "image": "images/Icecaramel.PNG"
         },
         {
           "name": "آیس اورنج آمریکانو",
