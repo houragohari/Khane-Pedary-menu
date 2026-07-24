@@ -84,6 +84,7 @@
           "price": 320,
           "volume": "470 میلی‌لیتر",
           "description": "بستنی وانیلی، نوتلا، شیر و خامه"
+          "image": "images/shakenutela.png"
         },
         {
           "name": "بری بلوم",
@@ -155,6 +156,7 @@
           "price": 225,
           "volume": "470 میلی‌لیتر",
           "description": "موهیتو با پوره توت‌فرنگی تازه"
+          "image": "images/redmohito.png"
         }
       ]
     },
@@ -168,12 +170,14 @@
           "price": 115,
           "volume": "60 میلی‌لیتر",
           "description": "دو شات اسپرسو"
+          "image": "images/arabica.png"
         },
         {
           "name": "دبل اسپرسو (30-70٪)",
           "price": 90,
           "volume": "60 میلی‌لیتر",
           "description": "دو شات اسپرسو"
+          "image": "images/robosta.png"
         },
         {
           "name": "آمریکانو",
@@ -238,6 +242,7 @@
           "price": 150,
           "volume": "470 میلی‌لیتر",
           "description": "دبل اسپرسو، آب سرد و یخ"
+          "image": "images/iceamericano.png"
         },
         {
           "name": "آیس لته",
@@ -280,6 +285,7 @@
           "price": 220,
           "volume": "470 میلی‌لیتر",
           "description": "دبل اسپرسو، شیر، سیروپ شکلات، پوره توت‌فرنگی و یخ"
+          "image": "images/berryicemocha.png"
         },
         {
           "name": "آیس ولوت براون لته",
@@ -353,6 +359,7 @@
           "name": "چیزبرگر",
           "price": 600,
           "description": "برگر گوشت گریل، پنیر چدار، کاهو، گوجه، خیارشور، پیاز کاراملی و سس مخصوص"
+          "image": "images/cheeseburger.png"
         },
         {
           "name": "اسموک برگر",
@@ -428,6 +435,7 @@
       "name": "آیس فروت",
       "price": 435,
       "description": "وافل، بستنی وانیلی یا شکلاتی، میوه‌های تازه و سس شکلات"
+      "image": "images/wafelice.png"
     }
   ]
 },
