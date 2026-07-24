@@ -83,7 +83,7 @@
           "name": "نوتلا",
           "price": 320,
           "volume": "470 میلی‌لیتر",
-          "description": "بستنی وانیلی، نوتلا، شیر و خامه"
+          "description": "بستنی وانیلی، نوتلا، شیر و خامه",
           "image": "images/Shakenutela.jpg"
         },
         {
@@ -155,7 +155,7 @@
           "name": "رد موهیتو",
           "price": 225,
           "volume": "470 میلی‌لیتر",
-          "description": "موهیتو با پوره توت‌فرنگی تازه"
+          "description": "موهیتو با پوره توت‌فرنگی تازه",
           "image": "images/redmohito.png"
         }
       ]
@@ -169,14 +169,14 @@
           "name": "دبل اسپرسو (70-30٪)",
           "price": 115,
           "volume": "60 میلی‌لیتر",
-          "description": "دو شات اسپرسو"
+          "description": "دو شات اسپرسو",
           "image": "images/Arabica.jpg"
         },
         {
           "name": "دبل اسپرسو (30-70٪)",
           "price": 90,
           "volume": "60 میلی‌لیتر",
-          "description": "دو شات اسپرسو"
+          "description": "دو شات اسپرسو",
           "image": "images/Robosta.jpg"
         },
         {
@@ -241,7 +241,7 @@
           "name": "آیس آمریکانو",
           "price": 150,
           "volume": "470 میلی‌لیتر",
-          "description": "دبل اسپرسو، آب سرد و یخ"
+          "description": "دبل اسپرسو، آب سرد و یخ",
           "image": "images/iceamericano.png"
         },
         {
@@ -284,7 +284,7 @@
           "name": "بری آیس موکا",
           "price": 220,
           "volume": "470 میلی‌لیتر",
-          "description": "دبل اسپرسو، شیر، سیروپ شکلات، پوره توت‌فرنگی و یخ"
+          "description": "دبل اسپرسو، شیر، سیروپ شکلات، پوره توت‌فرنگی و یخ",
           "image": "images/Iceberrymocha.jpg"
         },
         {
@@ -357,8 +357,8 @@
         },
         {
           "name": "چیزبرگر",
-          "price": 600,
-          "description": "برگر گوشت گریل، پنیر چدار، کاهو، گوجه، خیارشور، پیاز کاراملی و سس مخصوص"
+          "price": 600٫
+          "description": "برگر گوشت گریل، پنیر چدار، کاهو، گوجه، خیارشور، پیاز کاراملی و سس مخصوص,
           "image": "images/Cheeseburger.jpg"
         },
         {
@@ -434,7 +434,7 @@
     {
       "name": "آیس فروت",
       "price": 435,
-      "description": "وافل، بستنی وانیلی یا شکلاتی، میوه‌های تازه و سس شکلات"
+      "description": "وافل، بستنی وانیلی یا شکلاتی، میوه‌های تازه و سس شکلات",
       "image": "images/Wafelice.jpg"
     }
   ]
