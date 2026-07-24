@@ -16,25 +16,29 @@
           "name": "وانیلا",
           "price": 195,
           "volume": "470 میلی‌لیتر",
-          "description": "شیر، یخ و خامه"
+          "description": "شیر، یخ و خامه",
+          "image": "images/frapevanil.PNG"
         },
         {
           "name": "چوکو ولوت",
           "price": 205,
           "volume": "470 میلی‌لیتر",
-          "description": "شیر، یخ، شکلات، خامه و سس شکلات"
+          "description": "شیر، یخ، شکلات، خامه و سس شکلات",
+          "image": "images/frapeshoko.jpg"
         },
         {
           "name": "نوتلا",
           "price": 300,
           "volume": "470 میلی‌لیتر",
-          "description": "شیر، یخ، نوتلا و خامه"
+          "description": "شیر، یخ، نوتلا و خامه",
+          "image": "images/frapenutela.PNG"
         },
         {
           "name": "قهوه",
           "price": 280,
           "volume": "470 میلی‌لیتر",
-          "description": "دبل اسپرسو، شیر، یخ و خامه"
+          "description": "دبل اسپرسو، شیر، یخ و خامه",
+          "image": "images/frapecoffee.jpg"
         }
       ]
     },
@@ -47,37 +51,43 @@
           "name": "وانیلا",
           "price": 220,
           "volume": "470 میلی‌لیتر",
-          "description": "بستنی وانیلی، شیر و خامه"
+          "description": "بستنی وانیلی، شیر و خامه",
+          "image": "images/shakevanil.jpg"
         },
         {
           "name": "چوکو ولوت",
           "price": 230,
           "volume": "470 میلی‌لیتر",
-          "description": "بستنی شکلاتی، شیر، سس شکلات و خامه"
+          "description": "بستنی شکلاتی، شیر، سس شکلات و خامه",
+          "image": "images/shakeshoko.jpg"
         },
         {
           "name": "کارامل",
           "price": 250,
           "volume": "470 میلی‌لیتر",
-          "description": "بستنی وانیلی، شیر، سیروپ کارامل و خامه"
+          "description": "بستنی وانیلی، شیر، سیروپ کارامل و خامه",
+          "image": "images/shakecaramel.jpg"
         },
         {
           "name": "قهوه",
           "price": 310,
           "volume": "470 میلی‌لیتر",
-          "description": "بستنی وانیلی، دبل اسپرسو، شیر و خامه"
+          "description": "بستنی وانیلی، دبل اسپرسو، شیر و خامه",
+          "image": "images/shakecoffee.jpg"
         },
         {
           "name": "بیسکوییت",
           "price": 225,
           "volume": "470 میلی‌لیتر",
-          "description": "بستنی وانیلی، بیسکویت، شیر و خامه"
+          "description": "بستنی وانیلی، بیسکویت، شیر و خامه",
+          "image": "images/shakebis.jpg"
         },
         {
           "name": "چوکو گلدن بنانا",
           "price": 245,
           "volume": "470 میلی‌لیتر",
-          "description": "بستنی شکلاتی، موز، شکلات، شیر و خامه"
+          "description": "بستنی شکلاتی، موز، شکلات، شیر و خامه",
+          "image": "images/shakemoz.jpg"
         },
         {
           "name": "نوتلا",
@@ -90,13 +100,15 @@
           "name": "بری بلوم",
           "price": 265,
           "volume": "470 میلی‌لیتر",
-          "description": "بستنی وانیلی، توت‌فرنگی، شیر و خامه"
+          "description": "بستنی وانیلی، توت‌فرنگی، شیر و خامه",
+          "image": "images/shakeberry.jpg"
         },
         {
           "name": "لوتوس",
           "price": 320,
           "volume": "470 میلی‌لیتر",
-          "description": "بستنی وانیلی، کرم و بیسکویت لوتوس، شیر و خامه"
+          "description": "بستنی وانیلی، کرم و بیسکویت لوتوس، شیر و خامه",
+          "image": "images/shakelotus.jpg"
         },
         {
   "name": "بستنی اسکوپی",
