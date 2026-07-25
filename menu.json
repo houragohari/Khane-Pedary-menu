@@ -35,7 +35,7 @@
         },
         {
           "name": "قهوه",
-          "price": 280,
+          "price": 310,
           "volume": "470 میلی‌لیتر",
           "description": "دبل اسپرسو، شیر، یخ و خامه",
           "image": "images/frapecoffee.jpg"
@@ -49,14 +49,14 @@
       "items": [
         {
           "name": "وانیلا",
-          "price": 220,
+          "price": 235,
           "volume": "470 میلی‌لیتر",
           "description": "بستنی وانیلی، شیر و خامه",
           "image": "images/shakevanil.jpg"
         },
         {
           "name": "چوکو ولوت",
-          "price": 230,
+          "price": 240,
           "volume": "470 میلی‌لیتر",
           "description": "بستنی شکلاتی، شیر، سس شکلات و خامه",
           "image": "images/shakeshoko.jpg"
@@ -70,42 +70,42 @@
         },
         {
           "name": "قهوه",
-          "price": 310,
+          "price": 325,
           "volume": "470 میلی‌لیتر",
           "description": "بستنی وانیلی، دبل اسپرسو، شیر و خامه",
           "image": "images/shakecoffee.jpg"
         },
         {
           "name": "بیسکوییت",
-          "price": 225,
+          "price": 245,
           "volume": "470 میلی‌لیتر",
           "description": "بستنی وانیلی، بیسکویت، شیر و خامه",
           "image": "images/shakebis.jpg"
         },
         {
           "name": "چوکو گلدن بنانا",
-          "price": 245,
+          "price": 250,
           "volume": "470 میلی‌لیتر",
           "description": "بستنی شکلاتی، موز، شکلات، شیر و خامه",
           "image": "images/shakemoz.jpg"
         },
         {
           "name": "نوتلا",
-          "price": 320,
+          "price": 350,
           "volume": "470 میلی‌لیتر",
           "description": "بستنی وانیلی، نوتلا، شیر و خامه",
           "image": "images/Shakenutela.jpg"
         },
         {
           "name": "بری بلوم",
-          "price": 265,
+          "price": 270,
           "volume": "470 میلی‌لیتر",
           "description": "بستنی وانیلی، توت‌فرنگی، شیر و خامه",
           "image": "images/shakeberry.jpg"
         },
         {
           "name": "لوتوس",
-          "price": 320,
+          "price": 350,
           "volume": "470 میلی‌لیتر",
           "description": "بستنی وانیلی، کرم و بیسکویت لوتوس، شیر و خامه",
           "image": "images/shakelotus.jpg"
@@ -113,7 +113,7 @@
         {
   "name": "بستنی اسکوپی",
   "description": " بستنی شکلاتی، بستنی وانیلی، همراه با سس شکلات",
-  "price": 200,
+  "price": 220,
   "volume": "3 اسکوپ",
           "image": "images/icream.jpg"
 }
@@ -123,28 +123,28 @@
       "items": [
         {
           "name": "گلدن بنانا",
-          "price": 195,
+          "price": 200,
           "volume": "470 میلی‌لیتر",
           "description": "ترکیب موز، شیر و یخ",
           "image": "images/moz.jpg"
         },
         {
           "name": "لواشک",
-          "price": 180,
+          "price": 220,
           "volume": "470 میلی‌لیتر",
           "description": "ترکیب لواشک و یخ",
           "image": "images/Lavashak.jpg"
         },
         {
           "name": "بری بلوم",
-          "price": 195,
+          "price": 210,
           "volume": "470 میلی‌لیتر",
           "description": "ترکیب توت‌فرنگی، شیر و یخ",
           "image": "images/smootiberry.jpg"
         },
         {
           "name": "هیدن اسموتی",
-          "price": 235,
+          "price": 250,
           "volume": "470 میلی‌لیتر",
           "description": "اسموتی دو طعم با ترکیب میوه‌های تازه",
           "image": "images/hidden.jpg"
@@ -214,14 +214,14 @@
         },
         {
           "name": "کاپوچینو",
-          "price": 155,
+          "price": 170,
           "volume": "240 میلی‌لیتر",
           "description": "دبل اسپرسو و شیر",
           "image": "images/capuchino.jpg"
         },
         {
           "name": "لته",
-          "price": 160,
+          "price": 170,
           "volume": "360 میلی‌لیتر",
           "description": "دبل اسپرسو و شیر",
           "image": "images/latte.jpg"
@@ -235,21 +235,21 @@
         },
         {
           "name": "آفوگاتو",
-          "price": 180,
+          "price": 200,
           "volume": "240 میلی‌لیتر",
           "description": "یک اسکوپ بستنی وانیلی و دبل اسپرسو",
           "image": "images/afogato.jpg"
         },
         {
           "name": "قهوه پدری",
-          "price": 130,
+          "price": 150,
           "volume": "90 میلی‌لیتر",
           "description": "قهوه ترک",
           "image": "images/turk.jpg"
         },
         {
           "name": "موکا ترک",
-          "price": 150,
+          "price": 165,
           "volume": "90 میلی‌لیتر",
           "description": "قهوه ترک و شکلات",
           "image": "images/mochaturk.jpg"
@@ -274,7 +274,7 @@
         },
         {
           "name": "آیس لته",
-          "price": 160,
+          "price": 170,
           "volume": "470 میلی‌لیتر",
           "description": "دبل اسپرسو، شیر و یخ"
         },
@@ -300,19 +300,19 @@
         },
         {
           "name": "آیس اورنج آمریکانو",
-          "price": 180,
+          "price": 195,
           "volume": "470 میلی‌لیتر",
           "description": "دبل اسپرسو، آب پرتقال تازه و یخ"
         },
         {
           "name": "بری آیس لته",
-          "price": 210,
+          "price": 230,
           "volume": "470 میلی‌لیتر",
           "description": "دبل اسپرسو، شیر، پوره توت‌فرنگی و یخ"
         },
         {
           "name": "بری آیس موکا",
-          "price": 220,
+          "price": 250,
           "volume": "470 میلی‌لیتر",
           "description": "دبل اسپرسو، شیر، سیروپ شکلات، پوره توت‌فرنگی و یخ",
           "image": "images/Iceberrymocha.jpg"
@@ -326,13 +326,13 @@
         },
         {
           "name": "آیس بنانا لته",
-          "price": 210,
+          "price": 230,
           "volume": "470 میلی‌لیتر",
           "description": "دبل اسپرسو، شیر، موز و یخ"
         },
         {
           "name": "آیس چاکلت",
-          "price": 170,
+          "price": 185,
           "volume": "470 میلی‌لیتر",
           "description": "شکلات، شیر و یخ خرد شده"
         }
@@ -345,13 +345,13 @@
       "items": [
         {
           "name": "هات چاکلت",
-          "price": 170,
+          "price": 185,
           "volume": "360 میلی‌لیتر",
           "description": "پودر هات چاکلت و شیر"
         },
         {
           "name": "چای ماسالا",
-          "price": 160,
+          "price": 185,
           "volume": "360 میلی‌لیتر",
           "description": "شیر و ادویه ماسالا"
         },
@@ -405,7 +405,7 @@
         {
   "name": "هات داگ",
   "description": "هات داگ گریل‌شده همراه با کاهو، گوجه، خیارشور و سس مخصوص",
-  "price": 250
+  "price": 300
         },
         {
           "name": "پاستا آلفردو",
@@ -458,7 +458,7 @@
     },
     {
       "name": "چوکو ولوت",
-      "price": 390,
+      "price": 410,
       "description": "وافل، نوتلا، سس شکلات و میوه"
     },
     {
