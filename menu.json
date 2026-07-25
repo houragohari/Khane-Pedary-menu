@@ -216,25 +216,29 @@
           "name": "کاپوچینو",
           "price": 155,
           "volume": "240 میلی‌لیتر",
-          "description": "دبل اسپرسو و شیر"
+          "description": "دبل اسپرسو و شیر",
+          "image": "images/capochino.jpg"
         },
         {
           "name": "لته",
           "price": 160,
           "volume": "360 میلی‌لیتر",
-          "description": "دبل اسپرسو و شیر"
+          "description": "دبل اسپرسو و شیر",
+          "image": "images/latte.jpg"
         },
         {
           "name": "موکا",
           "price": 185,
           "volume": "360 میلی‌لیتر",
-          "description": "دبل اسپرسو، شیر و سیروپ شکلات"
+          "description": "دبل اسپرسو، شیر و سیروپ شکلات",
+          "image": "images/mocha.jpg"
         },
         {
           "name": "آفوگاتو",
           "price": 180,
           "volume": "240 میلی‌لیتر",
-          "description": "یک اسکوپ بستنی وانیلی و دبل اسپرسو"
+          "description": "یک اسکوپ بستنی وانیلی و دبل اسپرسو",
+          "image": "images/afogato.jpg"
         },
         {
           "name": "قهوه پدری",
@@ -247,13 +251,15 @@
           "name": "موکا ترک",
           "price": 150,
           "volume": "90 میلی‌لیتر",
-          "description": "قهوه ترک و شکلات"
+          "description": "قهوه ترک و شکلات",
+          "image": "images/mochaturk.jpg"
         },
         {
           "name": "وانیلا لته",
           "price": 185,
           "volume": "360 میلی‌لیتر",
-          "description": "دبل اسپرسو، شیر و سیروپ وانیل"
+          "description": "دبل اسپرسو، شیر و سیروپ وانیل",
+          "image": "images/vanillatte.jpg"
         }
       ]
     },    {
