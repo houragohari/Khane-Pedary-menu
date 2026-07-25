@@ -276,39 +276,43 @@
           "name": "آیس لته",
           "price": 170,
           "volume": "470 میلی‌لیتر",
-          "description": "دبل اسپرسو، شیر و یخ"
+          "description": "دبل اسپرسو، شیر و یخ",
+          "image": "images/icelatte.jpg"
         },
         {
           "name": "آیس وانیلا لته",
           "price": 185,
           "volume": "470 میلی‌لیتر",
-          "description": "دبل اسپرسو، شیر، سیروپ وانیل و یخ"
+          "description": "دبل اسپرسو، شیر، سیروپ وانیل و یخ",
+          "image": "images/icevanil.jpg"
         },
         {
           "name": "آیس موکا",
           "price": 185,
           "volume": "470 میلی‌لیتر",
           "description": "دبل اسپرسو، شیر، سیروپ شکلات و یخ",
-          "image": "images/Icemocha.PNG"
+          "image": "images/icemocha.jpg"
         },
         {
           "name": "آیس کارامل ماکیاتو",
           "price": 185,
           "volume": "470 میلی‌لیتر",
           "description": "دبل اسپرسو، شیر، سیروپ کارامل و یخ",
-          "image": "images/Icecaramel.PNG"
+          "image": "images/icecaramel.jpg"
         },
         {
           "name": "آیس اورنج آمریکانو",
           "price": 195,
           "volume": "470 میلی‌لیتر",
-          "description": "دبل اسپرسو، آب پرتقال تازه و یخ"
+          "description": "دبل اسپرسو، آب پرتقال تازه و یخ",
+          "image": "images/iceorange.jpg"
         },
         {
           "name": "بری آیس لته",
           "price": 230,
           "volume": "470 میلی‌لیتر",
-          "description": "دبل اسپرسو، شیر، پوره توت‌فرنگی و یخ"
+          "description": "دبل اسپرسو، شیر، پوره توت‌فرنگی و یخ",
+          "image": "images/iceberrylatte.jpg"
         },
         {
           "name": "بری آیس موکا",
@@ -322,19 +326,22 @@
           "price": 250,
           "volume": "470 میلی‌لیتر",
           "description": "دبل اسپرسو، شیر، سیروپ شکر قهوه‌ای، یخ و فوم سرد براون شوگر",
-          "popular": true
+          "popular": true,
+          "image": "images/icebrown.jpg"
         },
         {
           "name": "آیس بنانا لته",
           "price": 230,
           "volume": "470 میلی‌لیتر",
-          "description": "دبل اسپرسو، شیر، موز و یخ"
+          "description": "دبل اسپرسو، شیر، موز و یخ",
+          "image": "images/icemoz.jpg"
         },
         {
           "name": "آیس چاکلت",
           "price": 185,
           "volume": "470 میلی‌لیتر",
-          "description": "شکلات، شیر و یخ خرد شده"
+          "description": "شکلات، شیر و یخ خرد شده",
+          "image": "images/icechoko.jpg"
         }
       ]
     },
