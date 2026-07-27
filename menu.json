@@ -354,13 +354,15 @@
           "name": "هات چاکلت",
           "price": 185,
           "volume": "360 میلی‌لیتر",
-          "description": "پودر هات چاکلت و شیر"
+          "description": "پودر هات چاکلت و شیر",
+          "image": "images/hotchoko.jpg"
         },
         {
           "name": "چای ماسالا",
           "price": 185,
           "volume": "360 میلی‌لیتر",
-          "description": "شیر و ادویه ماسالا"
+          "description": "شیر و ادویه ماسالا",
+          "image": "images/masala.jpg"
         },
         {
           "name": "چای سیاه ساده دو نفره",
@@ -390,19 +392,21 @@
         {
           "name": "برگر کلاسیک",
           "price": 550,
-          "description": "برگر گوشت گریل، کاهو، گوجه، خیارشور، پیاز کاراملی و سس مخصوص"
+          "description": "برگر گوشت گریل، کاهو، گوجه، خیارشور، پیاز کاراملی و سس مخصوص",
+          "image": "images/classic.jpg"
         },
         {
   "name": "چیزبرگر",
   "price": 600,
   "description": "برگر گوشت گریل، پنیر چدار، کاهو، گوجه، خیارشور، پیاز کاراملی و سس مخصوص",
-  "image": "images/Cheeseburger.jpg"
+  "image": "images/cheeseburger.jpg"
 },
         {
           "name": "اسموک برگر",
           "price": 650,
           "description": "برگر گوشت دودی، پنیر چدار، پیاز کاراملی و سس اسموکی",
-          "popular": true
+          "popular": true,
+          "image": "images/smoke.jpg"
         },
         {
           "name": "کراکف",
