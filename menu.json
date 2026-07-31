@@ -369,21 +369,21 @@
           "price": 190,
           "volume": "دو نفره",
           "description": "چای سیاه، کوکی شکلاتی",
-          "image": "images/chai2.heic"
+          "image": "images/chai2.JPG"
         },
         {
           "name": "چای هل و دارچین دو نفره",
           "price": 210,
           "volume": "دو نفره",
           "description": "هل و دارچین، کوکی شکلاتی",
-          "image": "images/chai2.heic"
+          "image": "images/chai2.JPG"
         },
         {
           "name": "چای زعفران دو نفره",
           "price": 230,
           "volume": "دو نفره",
           "description": "چای زعفران، کوکی شکلاتی",
-          "image": "images/chai2.heic"
+          "image": "images/chai2.JPG"
         }
       ]
     },
@@ -520,67 +520,67 @@
       "name": "تمشک بستنی",
       "price": 300,
       "description": "قلیان",
-      "image": "images/ghelyoon2.heic"
+      "image": "images/ghelyoon2.JPG"
     },
     {
       "name": "آدامس دارچین",
       "price": 300,
       "description": "قلیان",
-      "image": "images/ghelyoon.heic"
+      "image": "images/ghelyoon.JPG"
     },
     {
       "name": "لاو",
       "price": 300,
       "description": "قلیان",
-      "image": "images/ghelyoon2.heic"
+      "image": "images/ghelyoon2.JPG"
     },
     {
       "name": "شب‌های مسکو",
       "price": 300,
       "description": "قلیان",
-      "image": "images/ghelyoon.heic"
+      "image": "images/ghelyoon.JPG"
     },
     {
       "name": "پرتقال نعنا",
       "price": 300,
       "description": "قلیان",
-      "image": "images/ghelyoon2.heic"
+      "image": "images/ghelyoon2.JPG"
     },
     {
       "name": "دو سیب",
       "price": 300,
       "description": "قلیان",
-      "image": "images/ghelyoon.heic"
+      "image": "images/ghelyoon.JPG"
     },
     {
       "name": "لیدی",
       "price": 300,
       "description": "قلیان",
-      "image": "images/ghelyoon2.heic"
+      "image": "images/ghelyoon2.JPG"
     },
     {
       "name": "دژاوو",
       "price": 300,
       "description": "قلیان",
-      "image": "images/ghelyoon.heic"
+      "image": "images/ghelyoon.JPG"
     },
     {
       "name": "شیخ مانی",
       "price": 300,
       "description": "قلیان",
-      "image": "images/ghelyoon2.heic"
+      "image": "images/ghelyoon2.JPG"
     },
     {
       "name": "پدر خوانده",
       "price": 300,
       "description": "قلیان",
-      "image": "images/ghelyoon.heic"
+      "image": "images/ghelyoon.JPG"
     },
     {
       "name": "خرم سلطان",
       "price": 300,
       "description": "قلیان",
-      "image": "images/ghelyoon2.heic"
+      "image": "images/ghelyoon2.JPG"
     }
   ]
 } 
