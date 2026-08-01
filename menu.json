@@ -450,7 +450,8 @@
         {
           "name": "سیب زمینی و سس چدار",
           "price": 310,
-          "description": "سیب‌زمینی سرخ شده و سس چدار"
+          "description": "سیب‌زمینی سرخ شده و سس چدار",
+          "image": "images/sibchedar.jpg"
         },
         {
           "name": "سیب زمینی و سس آلفردو",
@@ -461,7 +462,8 @@
         {
           "name": "فایر فرایز",
           "price": 340,
-          "description": "سیب‌زمینی با ادویه تند، سس مخصوص و طعم دودی"
+          "description": "سیب‌زمینی با ادویه تند، سس مخصوص و طعم دودی",
+          "image": "images/fire.jpg"
         }
       ]
     },
@@ -473,18 +475,20 @@
     {
       "name": "کلاسیک",
       "price": 300,
-      "description": "وافل ساده، پودر قند"
+      "description": "وافل ساده، پودر قند",
+      "image": "images/wafelclassic.jpg"
     },
     {
       "name": "چوکو ولوت",
       "price": 410,
-      "description": "وافل، نوتلا، سس شکلات و میوه"
+      "description": "وافل، نوتلا، سس شکلات و میوه",
+      "image": "images/wafelchoko.jpg"
     },
     {
       "name": "آیس فروت",
       "price": 435,
       "description": "وافل، بستنی وانیلی یا شکلاتی، میوه‌های تازه و سس شکلات",
-      "image": "images/Wafelice.JPG"
+      "image": "images/Wafelice.jpg"
     }
   ]
 },
