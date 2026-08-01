@@ -186,14 +186,14 @@
       "items": [
         {
           "name": "دبل اسپرسو (70-30٪)",
-          "price": 115,
+          "price": 135,
           "volume": "60 میلی‌لیتر",
           "description": "دو شات اسپرسو",
           "image": "images/Arabica.jpg"
         },
         {
           "name": "دبل اسپرسو (30-70٪)",
-          "price": 90,
+          "price": 110,
           "volume": "60 میلی‌لیتر",
           "description": "دو شات اسپرسو",
           "image": "images/Robosta.jpg"
