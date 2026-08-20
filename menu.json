@@ -16,14 +16,14 @@
           "name": "وانیلا",
           "price": 195,
           "volume": "470 میلی‌لیتر",
-          "description": "شیر، یخ و خامه",
+          "description": "شیر، یخ ، خامه و سیروپ وانیل",
           "image": "images/frapevanil.PNG"
         },
         {
           "name": "چوکو ولوت",
           "price": 205,
           "volume": "470 میلی‌لیتر",
-          "description": "شیر، یخ، شکلات، خامه و سس شکلات",
+          "description": "شیر، یخ، سیروپ شکلات، خامه و سس شکلات",
           "image": "images/frapeshoko.jpg"
         },
         {
