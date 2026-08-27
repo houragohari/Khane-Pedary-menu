@@ -84,28 +84,28 @@
         },
         {
           "name": "چوکو گلدن بنانا",
-          "price": 250,
+          "price": 290,
           "volume": "470 میلی‌لیتر",
           "description": "بستنی شکلاتی، موز، شکلات، شیر و خامه",
           "image": "images/shakemoz.jpg"
         },
         {
           "name": "نوتلا",
-          "price": 350,
+          "price": 370,
           "volume": "470 میلی‌لیتر",
           "description": "بستنی وانیلی، نوتلا، شیر و خامه",
           "image": "images/Shakenutela.jpg"
         },
         {
           "name": "بری بلوم",
-          "price": 270,
+          "price": 310,
           "volume": "470 میلی‌لیتر",
           "description": "بستنی وانیلی، توت‌فرنگی، شیر و خامه",
           "image": "images/shakeberry.jpg"
         },
         {
           "name": "لوتوس",
-          "price": 350,
+          "price": 365
           "volume": "470 میلی‌لیتر",
           "description": "بستنی وانیلی، کرم و بیسکویت لوتوس، شیر و خامه",
           "image": "images/shakelotus.jpg"
@@ -123,21 +123,21 @@
       "items": [
         {
           "name": "گلدن بنانا",
-          "price": 200,
+          "price": 250,
           "volume": "470 میلی‌لیتر",
           "description": "ترکیب موز، شیر و یخ",
           "image": "images/moz.jpg"
         },
         {
           "name": "لواشک",
-          "price": 220,
+          "price": 280,
           "volume": "470 میلی‌لیتر",
           "description": "ترکیب لواشک و یخ",
           "image": "images/Lavashak.jpg"
         },
         {
           "name": "بری بلوم",
-          "price": 210,
+          "price": 275,
           "volume": "470 میلی‌لیتر",
           "description": "ترکیب توت‌فرنگی، شیر و یخ",
           "image": "images/smootiberry.jpg"
@@ -309,21 +309,21 @@
         },
         {
           "name": "بری آیس لته",
-          "price": 230,
+          "price": 290,
           "volume": "470 میلی‌لیتر",
           "description": "دبل اسپرسو، شیر، پوره توت‌فرنگی و یخ",
           "image": "images/iceberrylatte.jpg"
         },
         {
           "name": "بری آیس موکا",
-          "price": 250,
+          "price": 320,
           "volume": "470 میلی‌لیتر",
           "description": "دبل اسپرسو، شیر، سیروپ شکلات، پوره توت‌فرنگی و یخ",
           "image": "images/Iceberrymocha.jpg"
         },
         {
           "name": "آیس ولوت براون لته",
-          "price": 250,
+          "price": 300,
           "volume": "470 میلی‌لیتر",
           "description": "دبل اسپرسو، شیر، سیروپ شکر قهوه‌ای، یخ و فوم سرد براون شوگر",
           "popular": true,
@@ -331,14 +331,14 @@
         },
         {
           "name": "آیس بنانا لته",
-          "price": 230,
+          "price": 280,
           "volume": "470 میلی‌لیتر",
           "description": "دبل اسپرسو، شیر، موز و یخ",
           "image": "images/icemoz.jpg"
         },
         {
           "name": "آیس چاکلت",
-          "price": 185,
+          "price": 200,
           "volume": "470 میلی‌لیتر",
           "description": "شکلات، شیر و یخ خرد شده",
           "image": "images/icechoko.jpg"
@@ -352,14 +352,14 @@
       "items": [
         {
           "name": "هات چاکلت",
-          "price": 185,
+          "price": 200,
           "volume": "360 میلی‌لیتر",
           "description": "پودر هات چاکلت و شیر",
           "image": "images/hotchoko.jpg"
         },
         {
           "name": "چای ماسالا",
-          "price": 185,
+          "price": 200,
           "volume": "360 میلی‌لیتر",
           "description": "شیر و ادویه ماسالا",
           "image": "images/masala.jpg"
@@ -420,7 +420,7 @@
         {
   "name": "هات داگ",
   "description": "هات داگ گریل‌شده همراه با کاهو، گوجه، خیارشور و سس مخصوص",
-  "price": 300,
+  "price": 360,
           "image": "images/hotdog.jpg"
         },
         {
@@ -450,25 +450,25 @@
       "items": [
         {
           "name": "سیب زمینی ساده",
-          "price": 225,
+          "price": 260,
           "description": "سیب‌زمینی سرخ‌شده با ادویه مخصوص",
           "image": "images/sib.jpg"
         },
         {
           "name": "سیب زمینی و سس چدار",
-          "price": 310,
+          "price": 330
           "description": "سیب‌زمینی سرخ شده و سس چدار",
           "image": "images/sibchedar.jpg"
         },
         {
           "name": "سیب زمینی و سس آلفردو",
-          "price": 320,
+          "price": 340,
           "description": "سیب‌زمینی سرخ شده، قارچ و خامه",
           "image": "images/sibal.jpg"
         },
         {
           "name": "فایر فرایز",
-          "price": 340,
+          "price": 360,
           "description": "سیب‌زمینی با ادویه تند، سس مخصوص و طعم دودی",
           "image": "images/fire.jpg"
         }
@@ -481,19 +481,19 @@
   "items": [
     {
       "name": "کلاسیک",
-      "price": 300,
+      "price": 320,
       "description": "وافل ساده، پودر قند",
       "image": "images/wafelclassic.jpg"
     },
     {
       "name": "چوکو ولوت",
-      "price": 410,
+      "price": 430,
       "description": "وافل، نوتلا، سس شکلات و میوه",
       "image": "images/wafelchoko.jpg"
     },
     {
       "name": "آیس فروت",
-      "price": 435,
+      "price": 455,
       "description": "وافل، بستنی وانیلی یا شکلاتی، میوه‌های تازه و سس شکلات",
       "image": "images/Wafelice.jpg"
     }
