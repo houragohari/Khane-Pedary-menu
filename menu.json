@@ -105,7 +105,7 @@
         },
         {
           "name": "لوتوس",
-          "price": 365
+          "price": 365,
           "volume": "470 میلی‌لیتر",
           "description": "بستنی وانیلی، کرم و بیسکویت لوتوس، شیر و خامه",
           "image": "images/shakelotus.jpg"
@@ -456,7 +456,7 @@
         },
         {
           "name": "سیب زمینی و سس چدار",
-          "price": 330
+          "price": 330,
           "description": "سیب‌زمینی سرخ شده و سس چدار",
           "image": "images/sibchedar.jpg"
         },
