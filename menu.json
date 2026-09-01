@@ -394,19 +394,19 @@
       "items": [
         {
           "name": "برگر کلاسیک",
-          "price": 550,
+          "price": 600,
           "description": "برگر گوشت گریل، کاهو، گوجه، خیارشور، پیاز کاراملی و سس مخصوص",
           "image": "images/classic.jpg"
         },
         {
   "name": "چیزبرگر",
-  "price": 600,
+  "price": 650,
   "description": "برگر گوشت گریل، پنیر چدار، کاهو، گوجه، خیارشور، پیاز کاراملی و سس مخصوص",
   "image": "images/cheeseburger.jpg"
 },
         {
           "name": "اسموک برگر",
-          "price": 650,
+          "price": 700,
           "description": "برگر گوشت دودی، پنیر چدار، پیاز کاراملی و سس اسموکی",
           "popular": true,
           "image": "images/smoke.jpg"
