@@ -387,95 +387,135 @@
         }
       ]
     },
-
-
+    
+    
+  {
+  "title": "🍕 پیتزا ایتالیایی",
+  "items": [
     {
-      "title": "🍔 فست‌فود",
-      "items": [
-        {
-          "name": "برگر کلاسیک",
-          "price": 600,
-          "description": "برگر گوشت گریل، کاهو، گوجه، خیارشور، پیاز کاراملی و سس مخصوص",
-          "image": "images/classic.jpg"
-        },
-        {
-  "name": "چیزبرگر",
-  "price": 650,
-  "description": "برگر گوشت گریل، پنیر چدار، کاهو، گوجه، خیارشور، پیاز کاراملی و سس مخصوص",
-  "image": "images/cheeseburger.jpg"
-},
-        {
-          "name": "اسموک برگر",
-          "price": 700,
-          "description": "برگر گوشت دودی، پنیر چدار، پیاز کاراملی و سس اسموکی",
-          "popular": true,
-          "image": "images/smoke.jpg"
-        },
-        {
-          "name": "کراکف",
-          "price": 490,
-          "description": "سوسیس کراکف گریل، پنیر، خیارشور، سس مخصوص و نان تازه",
-          "image": "images/krakof.jpg"
-        },
-        {
-  "name": "هات داگ",
-  "description": "هات داگ گریل‌شده همراه با کاهو، گوجه، خیارشور و سس مخصوص",
-  "price": 360,
-          "image": "images/hotdog.jpg"
-        },
-        {
-  "name": "پیتزا لاوا",
-  "price": 350,
-  "description": "  نان، سس مخصوص، پنیر موزارلا، ترکیبی از سوسیس، کالباس و قارچ مزه دار شده ",
-  "image": "images/lava.jpg"
-},
-        {
-          "name": "پاستا آلفردو",
-          "price": 550,
-          "description": "پنه، مرغ گریل، سس آلفردو و پنیر پارمزان",
-          "image": "images/pastaal.jpg"
-        },
-        {
-          "name": "پاستا آرابیاتا",
-          "price": 530,
-          "description": "فتوچینی، سوسیس، سس گوجه تند و پنیر پارمزان",
-          "image": "images/arabiata.jpg"
-        }
-      ]
+      "name": "پیتزا ژامبون",
+      "prices": {
+        "تک نفره": 440,
+        "دو نفره": 680
+      },
+      "description": "سس مخصوص، ژامبون و کالباس خشک، قارچ، فلفل دلمه‌ای، ذرت، زیتون سیاه، پنیر پیتزا",
+      "image": "images/zhambon.jpg"
     },
-
-
     {
-      "title": "🍟 سیب‌زمینی‌ها",
-      "items": [
-        {
-          "name": "سیب زمینی ساده",
-          "price": 260,
-          "description": "سیب‌زمینی سرخ‌شده با ادویه مخصوص",
-          "image": "images/sib.jpg"
-        },
-        {
-          "name": "سیب زمینی و سس چدار",
-          "price": 330,
-          "description": "سیب‌زمینی سرخ شده و سس چدار",
-          "image": "images/sibchedar.jpg"
-        },
-        {
-          "name": "سیب زمینی و سس آلفردو",
-          "price": 340,
-          "description": "سیب‌زمینی سرخ شده، قارچ و خامه",
-          "image": "images/sibal.jpg"
-        },
-        {
-          "name": "فایر فرایز",
-          "price": 360,
-          "description": "سیب‌زمینی سرخ شده، پپرونی، سس مخصوص تند و طعم دودی",
-          "image": "images/fire.jpg"
-        }
-      ]
+      "name": "پیتزا چیکن",
+      "prices": {
+        "تک نفره": 460,
+        "دو نفره": 710
+      },
+      "description": "سس مخصوص، سینه مرغ رشته‌رشته، قارچ، فلفل دلمه‌ای، ذرت، زیتون، ادویه مخصوص، پنیر پیتزا",
+      "image": "images/chicken.jpg"
     },
-
-
+    {
+      "name": "پیتزا پپرونی",
+      "prices": {
+        "تک نفره": 480,
+        "دو نفره": 720
+      },
+      "description": "سس مخصوص، پپرونی، زیتون سیاه، پنیر پیتزا",
+      "image": "images/peperoni.jpg"
+    },
+    {
+      "name": "پیتزا رست بیف",
+      "prices": {
+        "تک نفره": 580,
+        "دو نفره": 860
+      },
+      "description": "سس مخصوص، راسته گوساله، قارچ، زیتون سیاه، ادویه مخصوص، پنیر پیتزا",
+      "image": "images/roast.jpg"
+    },
+    {
+      "name": "پیتزا اسپشیال",
+      "prices": {
+        "تک نفره": 610,
+        "دو نفره": 890
+      },
+      "description": "سس مخصوص، راسته گوساله، سینه مرغ رشته‌رشته، ژامبون و کالباس خشک، قارچ، فلفل دلمه‌ای، ذرت، ادویه مخصوص، پنیر پیتزا",
+      "image": "images/special.jpg"
+    }
+  ]
+},
+{
+  "title": "🍔 فست‌فود",
+  "items": [
+    {
+      "name": "برگر کلاسیک",
+      "price": 600,
+      "description": "برگر گوشت گریل، کاهو، گوجه، خیارشور، پیاز کاراملی و سس مخصوص",
+      "image": "images/classic.jpg"
+    },
+    {
+      "name": "چیزبرگر",
+      "price": 650,
+      "description": "برگر گوشت گریل، پنیر چدار، کاهو، گوجه، خیارشور، پیاز کاراملی و سس مخصوص",
+      "image": "images/cheeseburger.jpg"
+    },
+    {
+      "name": "اسموک برگر",
+      "price": 700,
+      "description": "برگر گوشت دودی، پنیر چدار، پیاز کاراملی و سس اسموکی",
+      "popular": true,
+      "image": "images/smoke.jpg"
+    },
+    {
+      "name": "کراکف",
+      "price": 490,
+      "description": "سوسیس کراکف گریل، پنیر، خیارشور، سس مخصوص و نان تازه",
+      "image": "images/krakof.jpg"
+    },
+    {
+      "name": "هات داگ",
+      "price": 360,
+      "description": "هات داگ گریل‌شده همراه با کاهو، گوجه، خیارشور و سس مخصوص",
+      "image": "images/hotdog.jpg"
+    },
+    {
+      "name": "پاستا آلفردو",
+      "price": 550,
+      "description": "پنه، مرغ گریل، سس آلفردو و پنیر پارمزان",
+      "image": "images/pastaal.jpg"
+    },
+    {
+      "name": "پاستا آرابیاتا",
+      "price": 530,
+      "description": "فتوچینی، سوسیس، سس گوجه تند و پنیر پارمزان",
+      "image": "images/arabiata.jpg"
+    }
+  ]
+},
+{
+  "title": "🍟 سیب‌زمینی‌ها",
+  "items": [
+    {
+      "name": "سیب زمینی ساده",
+      "price": 260,
+      "description": "سیب‌زمینی سرخ‌شده با ادویه مخصوص",
+      "image": "images/sib.jpg"
+    },
+    {
+      "name": "سیب زمینی و سس چدار",
+      "price": 330,
+      "description": "سیب‌زمینی سرخ شده و سس چدار",
+      "image": "images/sibchedar.jpg"
+    },
+    {
+      "name": "سیب زمینی و سس آلفردو",
+      "price": 340,
+      "description": "سیب‌زمینی سرخ شده، قارچ و خامه",
+      "image": "images/sibal.jpg"
+    },
+    {
+      "name": "فایر فرایز",
+      "price": 360,
+      "description": "سیب‌زمینی سرخ شده، پپرونی، سس مخصوص تند و طعم دودی",
+      "image": "images/fire.jpg"
+    }
+  ]
+}
     {
   "title": "🧇 وافل‌ها",
   "items": [
