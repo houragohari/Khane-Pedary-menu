@@ -1029,3 +1029,34 @@ footer p {
     }
 
 }
+/* قاب بزرگ محصول */
+.book-page {
+    padding: 5px !important;
+    overflow: hidden !important;
+}
+
+.page-products {
+    width: 100%;
+    height: calc(100% - 35px) !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.product-card {
+    width: 100% !important;
+    max-width: none !important;
+    height: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    border-radius: 16px !important;
+    overflow: hidden !important;
+    position: relative;
+}
+
+.product-card img {
+    display: block !important;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    border-radius: 16px !important;
+}
