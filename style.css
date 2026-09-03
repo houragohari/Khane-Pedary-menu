@@ -359,19 +359,18 @@ body {
 
     inset: 0;
 
-    padding: 25px 20px;
+    padding: 15px 8px;
 
     overflow: hidden;
 
     border-radius: 7px 20px 20px 7px;
 
     background:
-
         linear-gradient(
             90deg,
             #f7f1e5 0%,
-            #fffdf7 8%,
-            #fffdf7 92%,
+            #fffdf7 5%,
+            #fffdf7 95%,
             #e9dfce 100%
         );
 
@@ -456,13 +455,13 @@ body {
 
     display: flex;
 
-    align-items: center;
+    align-items: stretch;
 
     justify-content: center;
 
     height: calc(100% - 65px);
 
-    padding: 0 20px;
+    padding: 0 5px;
 
 }
 
@@ -471,9 +470,11 @@ body {
 
     width: 100%;
 
-    max-width: 440px;
+    max-width: 500px;
 
-    padding: 15px;
+    height: 100%;
+
+    padding: 10px;
 
     border-radius: 20px;
 
@@ -481,7 +482,7 @@ body {
         rgba(74,46,122,.06);
 
     border:
-        1px solid rgba(74,46,122,.1);
+        1px solid rgba(74,46,122,.12);
 
     display: flex;
 
@@ -508,7 +509,7 @@ body {
 
     width: 100%;
 
-    height: 330px;
+    height: 390px;
 
     object-fit: cover;
 
