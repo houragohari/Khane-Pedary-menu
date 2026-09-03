@@ -440,7 +440,7 @@ body {
 
     align-items: flex-start;
 
-    gap: 0;
+    gap: 8px;
 
     line-height: 1.5;
 }
