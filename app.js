@@ -19,13 +19,19 @@ fetch("menu.json")
             card.className = "card";
 
             card.innerHTML = `
-                ${item.image ? `<img src="${item.image}" alt="${item.name}">` : ""}
-                <h3>${item.name}</h3>
-                <p class="volume">${item.volume || ""}</p>
-                <p class="description">${item.description}</p>
-                <div class="price">${item.price} هزار تومان</div>
-            `;
-
+    ${item.image ? `<img src="${item.image}" alt="${item.name}">` : ""}
+    <h3>${item.name}</h3>
+    <p class="volume">${item.volume || ""}</p>
+    <p class="description">${item.description}</p>
+    <div class="price">
+        ${
+            item.prices
+            ? `تک نفره: ${item.prices["تک نفره"]} هزار تومان<br>
+               دو نفره: ${item.prices["دو نفره"]} هزار تومان`
+            : `${item.price} هزار تومان`
+        }
+    </div>
+`;
             if(item.image){
                 card.addEventListener("click", () => {
                     modalImage.src = item.image;
