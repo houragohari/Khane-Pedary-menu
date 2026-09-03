@@ -337,7 +337,7 @@ body {
     right: 18px;
     left: 18px;
 
-    bottom: 125px;
+    bottom: 150px;
 
     z-index: 5;
 
@@ -358,7 +358,7 @@ body {
 
     right: 18px;
 
-    bottom: 100px;
+    bottom: 125px;
 
     z-index: 5;
 
@@ -369,13 +369,18 @@ body {
     font-size: 12px;
 }
 
+
+/* =========================
+   PRODUCT DESCRIPTION
+========================= */
+
 .product-card .product-description {
     position: absolute;
 
     right: 18px;
     left: 18px;
 
-    bottom: 42px;
+    bottom: 78px;
 
     z-index: 5;
 
@@ -399,29 +404,41 @@ body {
         0 1px 5px rgba(0,0,0,.9);
 }
 
+
+/* =========================
+   PRODUCT PRICE
+========================= */
+
 .product-card .product-price {
     position: absolute;
 
     right: 18px;
+    left: 18px;
 
-    bottom: 12px;
+    bottom: 10px;
 
     z-index: 5;
 
     color: #fff;
 
-    font-size: 17px;
+    font-size: 16px;
 
     font-weight: 700;
+
+    line-height: 2;
+
+    text-align: right;
 
     text-shadow:
         0 2px 8px rgba(0,0,0,.9);
 }
 
 .product-card .price-line {
-    display: inline-block;
+    display: block;
 
-    margin-left: 10px;
+    margin: 0;
+
+    white-space: nowrap;
 }
 
 
@@ -462,7 +479,9 @@ body {
 }
 
 .page-btn:hover {
-    transform: translateY(-50%) scale(1.08);
+    transform:
+        translateY(-50%)
+        scale(1.08);
 }
 
 .page-btn:disabled {
@@ -499,12 +518,14 @@ body {
     from {
         transform:
             rotateY(-12deg);
+
         opacity: .7;
     }
 
     to {
         transform:
             rotateY(0);
+
         opacity: 1;
     }
 
@@ -515,12 +536,14 @@ body {
     from {
         transform:
             rotateY(12deg);
+
         opacity: .7;
     }
 
     to {
         transform:
             rotateY(0);
+
         opacity: 1;
     }
 
@@ -765,13 +788,15 @@ footer span {
     .product-card h3 {
         font-size: 20px;
 
-        bottom: 125px;
+        bottom: 150px;
     }
 
     .product-card .product-description {
         font-size: 11px;
 
         line-height: 1.8;
+
+        bottom: 78px;
     }
 
 }
@@ -792,7 +817,7 @@ footer span {
     .product-card h3 {
         font-size: 18px;
 
-        bottom: 125px;
+        bottom: 150px;
     }
 
     .product-card .product-description {
