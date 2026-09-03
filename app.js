@@ -307,23 +307,25 @@ fetch("menu.json")
 
         if(item.prices){
 
-            price.innerHTML = `
+    price.classList.add("pizza-price");
 
-                <span class="price-line">
-                    تک نفره:
-                    ${item.prices["تک نفره"]}
-                    هزار تومان
-                </span>
+    price.innerHTML = `
 
-                <span class="price-line">
-                    دو نفره:
-                    ${item.prices["دو نفره"]}
-                    هزار تومان
-                </span>
+        <div class="pizza-price-line">
+            <span>تک نفره</span>
+            <strong>${item.prices["تک نفره"]}</strong>
+            <small>هزار تومان</small>
+        </div>
 
-            `;
+        <div class="pizza-price-line">
+            <span>دو نفره</span>
+            <strong>${item.prices["دو نفره"]}</strong>
+            <small>هزار تومان</small>
+        </div>
 
-        }
+    `;
+
+}
 
         else {
 
