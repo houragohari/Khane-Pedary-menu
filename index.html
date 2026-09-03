@@ -17,91 +17,142 @@
 
 </head>
 
-
 <body>
-
 
 <div class="app">
 
+    <header class="hero">
 
-<header class="hero">
+        <div class="logo">
+            ☕
+        </div>
 
-<div class="logo">
-☕
+        <h1>
+            خانه پدری
+        </h1>
+
+        <p>
+            💜 یک خانه، سه قصه، هزار خاطره 💜
+        </p>
+
+        <div class="search-box">
+
+            <input
+                id="search"
+                type="text"
+                placeholder="جستجو در منو..."
+            >
+
+        </div>
+
+    </header>
+
+
+    <!-- دسته بندی ها -->
+
+    <nav class="category-nav" id="categoryNav"></nav>
+
+
+    <!-- منوی ویژه -->
+
+    <section class="featured">
+
+        <div id="featured-products"></div>
+
+    </section>
+
+
+    <!-- کلاسور -->
+
+    <main id="menu">
+
+        <div class="book-wrapper">
+
+            <button id="prevBtn" class="page-btn prev-btn">
+                ‹
+            </button>
+
+            <div class="book" id="book">
+
+                <div class="book-cover">
+
+                    <div class="cover-decoration">
+                        ☕
+                    </div>
+
+                    <h2>
+                        خانه پدری
+                    </h2>
+
+                    <p>
+                        منوی کافه
+                    </p>
+
+                </div>
+
+            </div>
+
+            <button id="nextBtn" class="page-btn next-btn">
+                ›
+            </button>
+
+        </div>
+
+
+        <div class="page-info">
+
+            <span id="currentPage">
+                1
+            </span>
+
+            <span>
+                /
+            </span>
+
+            <span id="totalPages">
+                1
+            </span>
+
+        </div>
+
+    </main>
+
+
+    <!-- نتایج جستجو -->
+
+    <section id="searchResults" class="search-results"></section>
+
+
+    <footer>
+
+        <p>
+            خانه پدری ☕
+        </p>
+
+        <span>
+            Digital Menu
+        </span>
+
+    </footer>
+
 </div>
 
 
-<h1>
-خانه پدری
-</h1>
-
-
-<p>
-💜 یک خانه، سه قصه، هزار خاطره 💜
-</p>
-
-
-<div class="search-box">
-
-<input 
-id="search"
-type="text"
-placeholder="جستجو در منو..."
->
-
-</div>
-
-
-</header>
-
-
-
-<section class="featured">
-
-
-
-<div id="featured-products"></div>
-
-
-</section>
-
-
-
-<main id="menu">
-
-</main>
-
-
-
-<footer>
-
-<p>
-خانه پدری ☕
-</p>
-<span>
-Digital Menu
-</span>
-
-<footer>
-
-<p>
-خانه پدری ☕
-</p>
-
-<span>
-Digital Menu
-</span>
-
-</footer>
-
-</div>
+<!-- نمایش بزرگ عکس -->
 
 <div id="imageModal" class="image-modal">
-    <span class="close-modal">&times;</span>
-    <img id="modalImage" src="">
+
+    <span class="close-modal">
+        &times;
+    </span>
+
+    <img id="modalImage" src="" alt="">
+
 </div>
+
 
 <script src="app.js"></script>
 
 </body>
+
 </html>
