@@ -1060,3 +1060,37 @@ footer p {
     object-fit: cover !important;
     border-radius: 16px !important;
 }
+.page-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    margin-top: 8px;
+}
+
+.swipe-hint {
+    font-size: 13px;
+    color: rgba(255,255,255,.75);
+    letter-spacing: .5px;
+    animation: swipeHint 1.8s ease-in-out infinite;
+}
+
+.page-number {
+    font-size: 11px;
+    color: rgba(255,255,255,.45);
+}
+
+@keyframes swipeHint {
+
+    0%, 100% {
+        transform: translateX(0);
+        opacity: .55;
+    }
+
+    50% {
+        transform: translateX(-5px);
+        opacity: 1;
+    }
+
+}
