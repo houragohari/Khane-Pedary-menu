@@ -140,13 +140,13 @@ fetch("menu.json")
 
 
         for(
-            let i = 0;
-            i < items.length;
-            i += 2
-        ){
+    let i = 0;
+    i < items.length;
+    i++
+){
 
-            const pageItems =
-                items.slice(i, i + 2);
+    const pageItems =
+        items.slice(i, i + 1);
 
 
             const page =
