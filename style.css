@@ -454,24 +454,28 @@ body {
 
 .page-products {
 
-    display: grid;
+    display: flex;
 
-    grid-template-columns: 1fr 1fr;
+    align-items: center;
 
-    gap: 13px;
+    justify-content: center;
 
     height: calc(100% - 65px);
+
+    padding: 0 20px;
 
 }
 
 
 .product-card {
 
-    min-width: 0;
+    width: 100%;
 
-    padding: 10px;
+    max-width: 440px;
 
-    border-radius: 15px;
+    padding: 15px;
+
+    border-radius: 20px;
 
     background:
         rgba(74,46,122,.06);
@@ -504,11 +508,11 @@ body {
 
     width: 100%;
 
-    height: 145px;
+    height: 330px;
 
     object-fit: cover;
 
-    border-radius: 11px;
+    border-radius: 16px;
 
 }
 
@@ -931,25 +935,27 @@ footer p {
 
     .product-card img {
 
-        height: 125px;
+        height: 300px;
 
     }
 
     .product-card h3 {
 
-        font-size: 14px;
+        font-size: 17px;
 
     }
 
     .product-description {
 
-        font-size: 10px;
+        font-size: 11px;
+
+        line-height: 1.8;
 
     }
 
     .product-price {
 
-        font-size: 12px;
+        font-size: 14px;
 
     }
 
@@ -967,7 +973,6 @@ footer p {
 
 }
 
-
 @media (max-width: 400px) {
 
     .book-wrapper {
@@ -977,6 +982,26 @@ footer p {
         padding-right: 4px;
 
     }
+
+    .book-page {
+
+        padding: 17px 13px;
+
+    }
+
+    .product-card {
+
+        padding: 10px;
+
+    }
+
+    .product-card img {
+
+        height: 270px;
+
+    }
+
+}
 
     .book-page {
 
